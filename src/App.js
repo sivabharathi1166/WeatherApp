@@ -31,6 +31,7 @@ function App() {
       </div>
       <div className="container">
         <div className="top">
+          <h2>Hi Find your weather with me</h2>
           <div className="location">
             <p>{data.name}</p>
           </div>
